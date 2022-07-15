@@ -4,9 +4,9 @@ Create a download link for the file. No Spring Project on  Libraries use Core JA
 
 ## SnapShots
 ## 1
-![web](https://github.com/shinchancode/download-link-java/blob/master/Images/1.png)
+![web](https://github.com/codewithrathi/download-link-java/blob/main/Images/1.png)
 ## 2
-![web](https://github.com/shinchancode/download-link-java/blob/master/Images/2.png)
+![web](https://github.com/codewithrathi/download-link-java/blob/main/Images/2.png)
 
 ## RESOURCES
 # Core JAVA, Collections
